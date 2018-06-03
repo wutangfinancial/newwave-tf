@@ -5,8 +5,8 @@ terraform {
 
 # provider "aws" {
 #  version = "~> 1.21"
-#  access_key = "AKIAJE4YJ2UMPLKN7FZA"
-#  secret_key = "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"
+#  access_key = "***"
+#  secret_key = "***"
 #  region     = "us-east-1"
 #}
 # resource "aws_vpc" "default" {
